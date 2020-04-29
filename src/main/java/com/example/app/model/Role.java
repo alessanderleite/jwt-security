@@ -37,11 +37,11 @@ public class Role {
 		this.id = id;
 	}
 	
-	public RoleName getRoleName() {
+	public RoleName getName() {
 		return name;
 	}
 	
-	public void setRoleName(RoleName name) {
+	public void setName(RoleName name) {
 		this.name = name;
 	}
 	
